@@ -5,5 +5,21 @@
         <link>https://seanogdev.github.io/talktu-releases/appcast.xml</link>
         <description>Talktu release updates</description>
         <language>en</language>
-    </channel>
+            <item>
+            <title>v0.2.2</title>
+            <pubDate>Fri, 04 Sep 2026 17:03:28 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.2 -->
+
+## What's Changed
+* Add Sparkle auto-updater by @seanogdev in https://github.com/seanogdev/talktu/pull/85
+
+
+**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.1...v0.2.2
+]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.2/Talktu-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="SHj6o/i+x/dKY1LYVIRrU8buFmUC2Slb6PQYf93xG8UIdBpQsKQi6PZHYSyhwE83+BAiRDGeA8vdS+GelEjFCA==" length="14160351"/>
+        </item>
+</channel>
 </rss>
