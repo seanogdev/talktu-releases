@@ -59,5 +59,43 @@
 ]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.4/Talktu-0.2.4.zip" type="application/octet-stream" sparkle:edSignature="cDzD9gCjYjp7tLa5mg8Jhy36PS/8ntedoi912lIrjEB3N9d2B0Y8ZqFqzwhZFvbyxW1/UDsu5wB62AYHCyGRAA==" length="14173121"/>
         </item>
+        <item>
+            <title>v0.2.5</title>
+            <pubDate>Fri, 04 Sep 2026 21:04:00 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
+
+<h2 dir="auto">What's Changed</h2>
+<ul dir="auto">
+<li>Skip the error overlay when there's no paste target by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/97">https://github.com/seanogdev/talktu/pull/97</a></li>
+<li>Render release notes as HTML in the Sparkle update dialog by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/99">https://github.com/seanogdev/talktu/pull/99</a></li>
+<li>Show real-time model download/load status in the overlay and Settings by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/100">https://github.com/seanogdev/talktu/pull/100</a></li>
+</ul>
+<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.2.4...v0.2.5"><tt>v0.2.4...v0.2.5</tt></a></p>
+</body>
+</html>]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.5/Talktu-0.2.5.zip" type="application/octet-stream" sparkle:edSignature="TaywcmKpy43CQmJADoTItGuEsVUfuaAzWPzjOm/qb2MzVa7xlXuVFeXXu4rd191YuC7dDyO2pQkzsSNv08k+Bw==" length="14188131"/>
+        </item>
 </channel>
 </rss>
