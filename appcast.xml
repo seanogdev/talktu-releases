@@ -23,5 +23,23 @@
 ]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.2/Talktu-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="/DywY04lfaHngecEdNY0hXFbQrmJV49WyS7IwjW+SEJgaDNEt5h72k7xCzJzbgnKIKsgYbFmSsT9K+ZPVY2XAw==" length="14158774"/>
         </item>
+        <item>
+            <title>v0.2.3</title>
+            <pubDate>Fri, 04 Sep 2026 18:13:15 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.3 -->
+
+## What's Changed
+* Shrink and rotate the loading menu bar icon by @seanogdev in https://github.com/seanogdev/talktu/pull/90
+* Replace dead packaging-guard branch with a zero-bundles check by @seanogdev in https://github.com/seanogdev/talktu/pull/91
+* Fix TCC prompts rendering behind the always-on-top onboarding window by @seanogdev in https://github.com/seanogdev/talktu/pull/92
+
+
+**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.2...v0.2.3
+]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.3/Talktu-0.2.3.zip" type="application/octet-stream" sparkle:edSignature="LnlLCTe9yyvWtjTrqXweC0Gnd6JwNnBmrhQAPFaqtlbOInS0puyY9/a6AS+hxmu039IH+aQlMThWFMcZFhFiDA==" length="14159732"/>
+        </item>
 </channel>
 </rss>
