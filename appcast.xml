@@ -5,5 +5,23 @@
         <link>https://seanogdev.github.io/talktu-releases/appcast.xml</link>
         <description>Talktu release updates</description>
         <language>en</language>
+        <item>
+            <title>v0.2.2</title>
+            <pubDate>Fri, 04 Sep 2026 17:55:56 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.2 -->
+
+## What's Changed
+* Add Sparkle auto-updater by @seanogdev in https://github.com/seanogdev/talktu/pull/85
+* Skip update checks in local dev builds by @seanogdev in https://github.com/seanogdev/talktu/pull/86
+* Fix Talktu 0.2.2's launch crash and harden the release pipeline by @seanogdev in https://github.com/seanogdev/talktu/pull/88
+
+
+**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.1...v0.2.2
+]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.2/Talktu-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="/DywY04lfaHngecEdNY0hXFbQrmJV49WyS7IwjW+SEJgaDNEt5h72k7xCzJzbgnKIKsgYbFmSsT9K+ZPVY2XAw==" length="14158774"/>
+        </item>
 </channel>
 </rss>
