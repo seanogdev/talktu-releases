@@ -1,7 +1,6 @@
 # Talktu Releases
 
 Signed and notarized macOS builds of Talktu, shared with a small group of internal testers.
-Source is closed.
 
 ## What it does
 
