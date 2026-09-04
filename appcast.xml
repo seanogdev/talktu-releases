@@ -41,5 +41,23 @@
 ]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.3/Talktu-0.2.3.zip" type="application/octet-stream" sparkle:edSignature="LnlLCTe9yyvWtjTrqXweC0Gnd6JwNnBmrhQAPFaqtlbOInS0puyY9/a6AS+hxmu039IH+aQlMThWFMcZFhFiDA==" length="14159732"/>
         </item>
+        <item>
+            <title>v0.2.4</title>
+            <pubDate>Fri, 04 Sep 2026 19:35:37 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.4 -->
+
+## What's Changed
+* Mention the public talktu-releases mirror in the README by @seanogdev in https://github.com/seanogdev/talktu/pull/93
+* Add a toggle-to-dictate shortcut by @seanogdev in https://github.com/seanogdev/talktu/pull/94
+* Add SwiftLint and swift-format, fix all findings by @seanogdev in https://github.com/seanogdev/talktu/pull/95
+
+
+**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.3...v0.2.4
+]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.4/Talktu-0.2.4.zip" type="application/octet-stream" sparkle:edSignature="cDzD9gCjYjp7tLa5mg8Jhy36PS/8ntedoi912lIrjEB3N9d2B0Y8ZqFqzwhZFvbyxW1/UDsu5wB62AYHCyGRAA==" length="14173121"/>
+        </item>
 </channel>
 </rss>
