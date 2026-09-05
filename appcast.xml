@@ -97,5 +97,44 @@
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.5/Talktu-0.2.5.zip" type="application/octet-stream" sparkle:edSignature="TaywcmKpy43CQmJADoTItGuEsVUfuaAzWPzjOm/qb2MzVa7xlXuVFeXXu4rd191YuC7dDyO2pQkzsSNv08k+Bw==" length="14188131"/>
         </item>
+        <item>
+            <title>v0.3.0</title>
+            <pubDate>Sat, 05 Sep 2026 16:18:39 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
+
+<h2 dir="auto">What's Changed</h2>
+<ul dir="auto">
+<li>Add a menu bar item to copy the last transcript by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/101">https://github.com/seanogdev/talktu/pull/101</a></li>
+<li>Move Copy Last Transcript between Settings and History by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/103">https://github.com/seanogdev/talktu/pull/103</a></li>
+<li>Protect audio quality while dictating by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/105">https://github.com/seanogdev/talktu/pull/105</a></li>
+<li>Don't hallucinate a word from a brief, mostly-silent hotkey hold by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/106">https://github.com/seanogdev/talktu/pull/106</a></li>
+</ul>
+<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.2.5...v0.3.0"><tt>v0.2.5...v0.3.0</tt></a></p>
+</body>
+</html>]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.3.0/Talktu-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="x7hyB1IO7XNUa7Acx3bd9VZQGI2HEKM5un7T78gYful2n7XWcVg5VXJxm+vutW5q/32AHYzJfVwLIZAwCIrhAg==" length="14203063"/>
+        </item>
 </channel>
 </rss>
