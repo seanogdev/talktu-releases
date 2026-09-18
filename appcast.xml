@@ -212,5 +212,46 @@
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.4.0/Talktu-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="W27mDI3gk2PYuWzVsPFsQKyNK/MyvfE/8at/q0+7Ni/vy83Qn4bGWfPqhtCRPwRrROpphswmytaRxXIKwBcfDw==" length="14264237"/>
         </item>
+        <item>
+            <title>v0.5.0</title>
+            <pubDate>Fri, 18 Sep 2026 09:33:13 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
+
+<h2 dir="auto">What's Changed</h2>
+<ul dir="auto">
+<li>Stop showing Transcribing after a hotkey tap too short to record speech by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/123">https://github.com/seanogdev/talktu/pull/123</a></li>
+<li>Let a shortcut fire on only the right or left modifier key by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/125">https://github.com/seanogdev/talktu/pull/125</a></li>
+<li>Stop cleanup pasting text captured from the screen by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/126">https://github.com/seanogdev/talktu/pull/126</a></li>
+<li>Add Parakeet Unified (0.6B) as a selectable STT engine by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/128">https://github.com/seanogdev/talktu/pull/128</a></li>
+<li>Show download speed/ETA in Settings and hide the icon mid-download by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/130">https://github.com/seanogdev/talktu/pull/130</a></li>
+<li>Auto-init the vendored llama.cpp submodule in new worktrees by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/129">https://github.com/seanogdev/talktu/pull/129</a></li>
+</ul>
+<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.4.0...v0.5.0"><tt>v0.4.0...v0.5.0</tt></a></p>
+</body>
+</html>]]></description>
+            <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.5.0/Talktu-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="3wWqwx0qzMpHENUIXVvHWsUtQWXd/CbFiO0z280Nyg81TqwyDszJIMvoJ/Qw7sxT1Af/PxEOCDaEvFsdl/qrCA==" length="14299965"/>
+        </item>
 </channel>
 </rss>
