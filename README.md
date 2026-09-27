@@ -49,6 +49,11 @@ Add your own names and terms in Settings and Talktu will get them right every ti
 
 Choose between snappier or more accurate, and dictate in more than one language.
 
+### 🌍 Speaks your language
+
+Talktu's menus, settings, and messages follow your Mac's language. It's available in English,
+简体中文, Español, हिन्दी, العربية, Português (Brasil), Français, Deutsch, 日本語, Русский, and 한국어.
+
 ### 🤫 Stays out of your way
 
 - **Hold to talk**, or **tap to toggle** for longer thoughts.
