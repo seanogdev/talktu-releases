@@ -11,16 +11,39 @@
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.2 -->
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
 
-## What's Changed
-* Add Sparkle auto-updater by @seanogdev in https://github.com/seanogdev/talktu/pull/85
-* Skip update checks in local dev builds by @seanogdev in https://github.com/seanogdev/talktu/pull/86
-* Fix Talktu 0.2.2's launch crash and harden the release pipeline by @seanogdev in https://github.com/seanogdev/talktu/pull/88
-
-
-**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.1...v0.2.2
-]]></description>
+<h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
+<ul dir="auto">
+<li>Update Talktu automatically</li>
+</ul>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Fix a crash at launch</li>
+</ul>
+</body>
+</html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.2/Talktu-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="/DywY04lfaHngecEdNY0hXFbQrmJV49WyS7IwjW+SEJgaDNEt5h72k7xCzJzbgnKIKsgYbFmSsT9K+ZPVY2XAw==" length="14158774"/>
         </item>
         <item>
@@ -29,16 +52,39 @@
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.3 -->
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
 
-## What's Changed
-* Shrink and rotate the loading menu bar icon by @seanogdev in https://github.com/seanogdev/talktu/pull/90
-* Replace dead packaging-guard branch with a zero-bundles check by @seanogdev in https://github.com/seanogdev/talktu/pull/91
-* Fix TCC prompts rendering behind the always-on-top onboarding window by @seanogdev in https://github.com/seanogdev/talktu/pull/92
-
-
-**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.2...v0.2.3
-]]></description>
+<h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">Improved</h3>
+<ul dir="auto">
+<li>Shrink and rotate the loading menu bar icon</li>
+</ul>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Fix permission prompts appearing behind the onboarding window</li>
+</ul>
+</body>
+</html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.3/Talktu-0.2.3.zip" type="application/octet-stream" sparkle:edSignature="LnlLCTe9yyvWtjTrqXweC0Gnd6JwNnBmrhQAPFaqtlbOInS0puyY9/a6AS+hxmu039IH+aQlMThWFMcZFhFiDA==" length="14159732"/>
         </item>
         <item>
@@ -47,16 +93,35 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!-- Release notes generated using configuration in .github/release.yml at v0.2.4 -->
+            <description><![CDATA[<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 13px;
+    color: #1d1d1f;
+    margin: 8px 12px;
+  }
+  a { color: #0a5cff; }
+  h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
+  ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f2f2f7; }
+    a { color: #6ea8fe; }
+  }
+</style>
+</head>
+<body>
 
-## What's Changed
-* Mention the public talktu-releases mirror in the README by @seanogdev in https://github.com/seanogdev/talktu/pull/93
-* Add a toggle-to-dictate shortcut by @seanogdev in https://github.com/seanogdev/talktu/pull/94
-* Add SwiftLint and swift-format, fix all findings by @seanogdev in https://github.com/seanogdev/talktu/pull/95
-
-
-**Full Changelog**: https://github.com/seanogdev/talktu/compare/v0.2.3...v0.2.4
-]]></description>
+<h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
+<ul dir="auto">
+<li>Start and stop dictation with a single shortcut press</li>
+</ul>
+</body>
+</html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.4/Talktu-0.2.4.zip" type="application/octet-stream" sparkle:edSignature="cDzD9gCjYjp7tLa5mg8Jhy36PS/8ntedoi912lIrjEB3N9d2B0Y8ZqFqzwhZFvbyxW1/UDsu5wB62AYHCyGRAA==" length="14173121"/>
         </item>
         <item>
@@ -77,6 +142,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -87,12 +153,15 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">Improved</h3>
 <ul dir="auto">
-<li>Skip the error overlay when there's no paste target by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/97">https://github.com/seanogdev/talktu/pull/97</a></li>
-<li>Render release notes as HTML in the Sparkle update dialog by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/99">https://github.com/seanogdev/talktu/pull/99</a></li>
-<li>Show real-time model download/load status in the overlay and Settings by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/100">https://github.com/seanogdev/talktu/pull/100</a></li>
+<li>Show real-time model download and load status in the overlay and Settings</li>
+<li>Skip the error overlay when there is nowhere to paste</li>
 </ul>
-<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.2.4...v0.2.5"><tt>v0.2.4...v0.2.5</tt></a></p>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Show formatted release notes in the update window</li>
+</ul>
 </body>
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.2.5/Talktu-0.2.5.zip" type="application/octet-stream" sparkle:edSignature="TaywcmKpy43CQmJADoTItGuEsVUfuaAzWPzjOm/qb2MzVa7xlXuVFeXXu4rd191YuC7dDyO2pQkzsSNv08k+Bw==" length="14188131"/>
@@ -115,6 +184,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -125,13 +195,19 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
 <ul dir="auto">
-<li>Add a menu bar item to copy the last transcript by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/101">https://github.com/seanogdev/talktu/pull/101</a></li>
-<li>Move Copy Last Transcript between Settings and History by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/103">https://github.com/seanogdev/talktu/pull/103</a></li>
-<li>Protect audio quality while dictating by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/105">https://github.com/seanogdev/talktu/pull/105</a></li>
-<li>Don't hallucinate a word from a brief, mostly-silent hotkey hold by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/106">https://github.com/seanogdev/talktu/pull/106</a></li>
+<li>Copy your last transcript from the menu bar</li>
 </ul>
-<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.2.5...v0.3.0"><tt>v0.2.5...v0.3.0</tt></a></p>
+<h3 dir="auto">Improved</h3>
+<ul dir="auto">
+<li>Move Copy Last Transcript between Settings and History</li>
+<li>Protect audio quality while dictating</li>
+</ul>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Stop inventing a word from a brief, mostly silent shortcut hold</li>
+</ul>
 </body>
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.3.0/Talktu-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="x7hyB1IO7XNUa7Acx3bd9VZQGI2HEKM5un7T78gYful2n7XWcVg5VXJxm+vutW5q/32AHYzJfVwLIZAwCIrhAg==" length="14203063"/>
@@ -154,6 +230,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -164,10 +241,10 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
 <ul dir="auto">
-<li>Add a Launch at Login toggle to Settings by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/107">https://github.com/seanogdev/talktu/pull/107</a></li>
+<li>Launch Talktu at login from Settings</li>
 </ul>
-<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.3.0...v0.3.1"><tt>v0.3.0...v0.3.1</tt></a></p>
 </body>
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.3.1/Talktu-0.3.1.zip" type="application/octet-stream" sparkle:edSignature="lSYrAktqFI9kB5tE6Sqac+QNt/N9RcCmghzueHWHpNYv1hA+v8NWiOIQzRf88PT64fsFj5Pt72eQnlIUYDyCBg==" length="14207408"/>
@@ -190,6 +267,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -200,14 +278,20 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
 <ul dir="auto">
-<li>Fix style.md violations found in Tests and status-item factories by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/110">https://github.com/seanogdev/talktu/pull/110</a></li>
-<li>Add Apple Foundation Models as a cleanup engine option by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/113">https://github.com/seanogdev/talktu/pull/113</a></li>
-<li>Add Apple Speech Analyzer as a transcription engine option by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/114">https://github.com/seanogdev/talktu/pull/114</a></li>
-<li>Add per-engine cleanup evals, drop the custom prompt setting, and fix SpeechAnalyzer locale fallback by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/116">https://github.com/seanogdev/talktu/pull/116</a></li>
-<li>Fix the Foundation Models cleanup fallback downloading a model mid-dictation by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/122">https://github.com/seanogdev/talktu/pull/122</a></li>
+<li>Use Apple Intelligence to clean up dictations</li>
+<li>Use Apple's speech recognition to transcribe</li>
 </ul>
-<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.3.1...v0.4.0"><tt>v0.3.1...v0.4.0</tt></a></p>
+<h3 dir="auto">Improved</h3>
+<ul dir="auto">
+<li>Remove the custom cleanup prompt setting</li>
+</ul>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Stop cleanup from downloading a model in the middle of a dictation</li>
+<li>Fix the language fallback for Apple's speech recognition</li>
+</ul>
 </body>
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.4.0/Talktu-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="W27mDI3gk2PYuWzVsPFsQKyNK/MyvfE/8at/q0+7Ni/vy83Qn4bGWfPqhtCRPwRrROpphswmytaRxXIKwBcfDw==" length="14264237"/>
@@ -230,6 +314,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -240,15 +325,20 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">New</h3>
 <ul dir="auto">
-<li>Stop showing Transcribing after a hotkey tap too short to record speech by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/123">https://github.com/seanogdev/talktu/pull/123</a></li>
-<li>Let a shortcut fire on only the right or left modifier key by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/125">https://github.com/seanogdev/talktu/pull/125</a></li>
-<li>Stop cleanup pasting text captured from the screen by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/126">https://github.com/seanogdev/talktu/pull/126</a></li>
-<li>Add Parakeet Unified (0.6B) as a selectable STT engine by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/128">https://github.com/seanogdev/talktu/pull/128</a></li>
-<li>Show download speed/ETA in Settings and hide the icon mid-download by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/130">https://github.com/seanogdev/talktu/pull/130</a></li>
-<li>Auto-init the vendored llama.cpp submodule in new worktrees by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seanogdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seanogdev">@seanogdev</a> in <a href="https://github.com/seanogdev/talktu/pull/129">https://github.com/seanogdev/talktu/pull/129</a></li>
+<li>Let a shortcut fire on only the right or left modifier key</li>
+<li>Choose Parakeet Unified (0.6B) as a speech model</li>
 </ul>
-<p dir="auto"><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/seanogdev/talktu/compare/v0.4.0...v0.5.0"><tt>v0.4.0...v0.5.0</tt></a></p>
+<h3 dir="auto">Improved</h3>
+<ul dir="auto">
+<li>Show download speed and time remaining in Settings</li>
+</ul>
+<h3 dir="auto">Fixed</h3>
+<ul dir="auto">
+<li>Stop showing Transcribing after a shortcut tap too short to record speech</li>
+<li>Stop cleanup pasting text captured from the screen</li>
+</ul>
 </body>
 </html>]]></description>
             <enclosure url="https://github.com/seanogdev/talktu-releases/releases/download/v0.5.0/Talktu-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="3wWqwx0qzMpHENUIXVvHWsUtQWXd/CbFiO0z280Nyg81TqwyDszJIMvoJ/Qw7sxT1Af/PxEOCDaEvFsdl/qrCA==" length="14299965"/>
@@ -271,6 +361,7 @@
   }
   a { color: #0a5cff; }
   h1, h2, h3 { font-size: 1.1em; margin: 0.6em 0 0.3em; }
+  .anchor { display: none; }
   ul, ol { margin: 0.3em 0; padding-left: 1.2em; }
   @media (prefers-color-scheme: dark) {
     body { color: #f2f2f7; }
@@ -281,9 +372,9 @@
 <body>
 
 <h2 dir="auto">What's Changed</h2>
+<h3 dir="auto">Fixed</h3>
 <ul dir="auto">
-<li>Race Foundation Models cleanup against a timeout</li>
-<li>Strip attribution from generated release notes</li>
+<li>Give up on Apple Intelligence cleanup when it is slow</li>
 </ul>
 </body>
 </html>]]></description>
